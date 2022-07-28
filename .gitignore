@@ -1,3 +1,7 @@
+#Chabo
+
+external/*/docs/*
+
 #CMAKE
 
 CMakeLists.txt.user
